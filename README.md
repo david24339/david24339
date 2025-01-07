@@ -1,6 +1,5 @@
-## Hello I'm David 👋
+# 👋 Hello I'm David !
 
-# 💫 About Me:
 🌱 I’m currently learning machine learning and data analytics<br>
 
 
