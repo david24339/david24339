@@ -1,6 +1,6 @@
 # 👋 Hello I'm David !
 
-🌱 I’m currently learning machine learning and data analytics<br>
+🌱 I’m currently learning about machine learning and data analytics<br>
 
 
 # 💻 Tech Stack:
