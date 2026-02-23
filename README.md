@@ -1,4 +1,4 @@
-# 👋 Hello I'm David
+# Hello I'm David
 I’m currently learning about machine learning. <br>
 
 
