@@ -2,10 +2,10 @@
 
 
 ### 💻 Skills
-- ** Programming Languages:** Python, C/C++, HTML/CSS, JavaScript
-- ** Backend:** Django, Django REST Framework, REST API design, Role-Based Access Control
-- ** Databases:** PostgreSQL, MySQL, SQLite
-- ** DevOps & Tools:** Git, AWS, Testing(unittest), CI/CD(GitHub Actions)
+- **Programming Languages:** Python, C/C++, HTML/CSS, JavaScript
+- **Backend:** Django, Django REST Framework, REST API design, Role-Based Access Control
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **DevOps & Tools:** Git, AWS, Testing(unittest), CI/CD(GitHub Actions)
 
 ### 🎯Currently Focused On
 - Backend systems design
